@@ -12,7 +12,7 @@ random movie give you random movie from the internet.
 
 share button in each movie page at the bottom.
 
-edited movies or created movies wont have movie pagecuz' they may be finctionals. example:
+edited movies or created movies wont have movie page cuz' they may be finctionals. example:
 
 ![alt text](https://image.ibb.co/iVH9LS/Screenshot_1521969868.png=10)
 
