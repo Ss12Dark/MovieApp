@@ -1,3 +1,8 @@
 This is my own coded Movie List Application:
 
-![alt text](https://fliphtml5.com/images/blog/best-tools-to-upload-documents-online-free-3.jpg)
+![alt text](https://image.ibb.co/ipcgZn/Screenshot_1521969701.png)
+
+Here easy look at some of the features:
+1.two menu's with two option's each: 
+![alt text](https://image.ibb.co/hGWm0S/Screenshot_1521969810.png)
+![alt text](https://image.ibb.co/hOg8En/Screenshot_1521969808.png) ![alt text](https://image.ibb.co/dvsgZn/Screenshot_1521969804.png)
