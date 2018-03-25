@@ -4,8 +4,6 @@ This is my own coded Movie List Application:
 
 Here easy look at some of the features:
 
-1.two menu's with two option's each: 
-
-![alt text](https://image.ibb.co/hGWm0S/Screenshot_1521969810.png=10)
-![alt text](https://image.ibb.co/hOg8En/Screenshot_1521969808.png=10) 
-![alt text](https://image.ibb.co/dvsgZn/Screenshot_1521969804.png=10)
+1.each movie page get paint by the score of the movie (good =green | bad  =red)
+![alt text](https://preview.ibb.co/efgVS7/Screenshot_1521969795.png=10)
+![alt text](https://image.ibb.co/c8L1Zn/Screenshot_1521969736.png=10)
