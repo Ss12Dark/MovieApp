@@ -1,6 +1,6 @@
 This is my own coded Movie List Application:
 
-![alt text](https://image.ibb.co/ipcgZn/Screenshot_1521969701.png)
+![alt text](https://image.ibb.co/ipcgZn/Screenshot_1521969701.png=250x250)
 
 Here easy look at some of the features:
 1.two menu's with two option's each: 
