@@ -95,7 +95,7 @@ public class MoviePage extends AppCompatActivity{
             voteText = activity.getString(R.string.noinfomration2);
         }else {
             voteText = movie.getVote_average()+"";
-            if((float)6.5<=movie.getVote_average()){//check if the score is high or low and paint the color red\green in result
+            if((float)6<=movie.getVote_average()){//check if the score is high or low and paint the color red\green in result
                 movieLinear.setBackgroundResource(R.drawable.layoutstylegreen);
             }else{
                 movieLinear.setBackgroundResource(R.drawable.layoutstylered);
